@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/mizumoto-cn/ginmini"
+	"github.com/mizumoto-cn/ginmini/ginmini"
 )
 
 func main() {
